@@ -1,8 +1,4 @@
-Todo Angular Project
-
-Sure, here's a basic README text for your Todo Angular project:
-
-Todo Angular Project
+#Todo Angular Project
 This project is a simple Todo application built using Angular. It allows users to create, update, delete, and mark tasks as completed.
 
 Features
